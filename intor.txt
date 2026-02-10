@@ -1,3 +1,28 @@
 Name: Kedareswar  
 Department: ECE  
 Hobby: Learning
+
+
+git status
+
+Tells you:
+
+which branch you’re on
+
+which files are modified, staged, or untracked
+Think of it as Git’s health report.
+
+-----------------------------
+git log
+
+Shows commit history:
+commit ID (hash)
+author
+date
+message:
+Use this to trace changes and debug messes.
+------------------------------------------------
+git branch:
+
+Lists all local branches.
+* means current branch

@@ -1,15 +1,16 @@
-# Workshop Details
+## Project Description
+This repository is created for GitHub workshop practice (merged from branch-a and branch-b).
 
-Name: Kedareswar
 
-College: Kalasalingam Academy of Research and Education
+## How to Run
+1. Clone the repository
+2. Open the project files
+3. Read the README file
 
-Workshop Date: 10/02/2026
+## Folder Structure
+- README.md
+- intro.txt
 
-Description:
-This file is created as part of the workshop conducted on 10 February 2026.
-It is intended for academic and submission purposes.
 
-Author:
-Kedareswar
-Kalasalingam Academy of Research and Education
+9922005072
+T Kedareswar 
