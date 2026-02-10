@@ -1,5 +1,6 @@
 ## Project Description
-This repository is created for Git workshop practice - Branch A.
+This repository is created for GitHub workshop practice (merged from branch-a and branch-b).
+
 
 ## How to Run
 1. Clone the repository
