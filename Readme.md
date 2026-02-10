@@ -1,5 +1,5 @@
 ## Project Description
-This repository is created for GitHub workshop practice.
+This repository is created for GitHub workshop practice - Branch B.
 
 ## How to Run
 1. Clone the repository
